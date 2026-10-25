@@ -1,7 +1,7 @@
 {
   "name": "gold-dz",
-  "version": "1.1.0",
-  "description": "Prix de l'or en Algérie - Base prix Ga3 Dzayer hors masna3iya - Onca + Dollar Square",
+  "version": "1.2.0",
+  "description": "Prix de l'or en Algérie - Tarikh lyom + 18k/21k/24k - Simple - Ga3 Dzayer",
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
@@ -13,21 +13,18 @@
     "dz",
     "or",
     "dhab",
-    "oran",
     "prix",
     "18k",
     "21k",
     "24k",
-    "gold-price"
+    "gold-price",
+    "oran"
   ],
-  "author": "Ben Mokhtar Fares <Oran, Algérie>",
+  "author": "Ben Mokhtar Fares <Oran>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/fares31-oss/gold-dz.git"
   },
-  "homepage": "https://github.com/fares31-oss/gold-dz#readme",
-  "bugs": {
-    "url": "https://github.com/fares31-oss/gold-dz/issues"
-  }
+  "homepage": "https://github.com/fares31-oss/gold-dz#readme"
 }
