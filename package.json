@@ -1,18 +1,33 @@
 {
   "name": "gold-dz",
-  "version": "1.0.0",
-  "description": "Prix du jour de l'or en Alg\u00e9rie - Gold price Algeria",
+  "version": "1.1.0",
+  "description": "Prix de l'or en Algérie - Base prix Ga3 Dzayer hors masna3iya - Onca + Dollar Square",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "start": "node index.js"
   },
   "keywords": [
     "gold",
     "algeria",
     "dz",
     "or",
-    "dheb"
+    "dhab",
+    "oran",
+    "prix",
+    "18k",
+    "21k",
+    "24k",
+    "gold-price"
   ],
-  "author": "Ben Mokhtar Fares - Oran",
-  "license": "MIT"
+  "author": "Ben Mokhtar Fares <Oran, Algérie>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fares31-oss/gold-dz.git"
+  },
+  "homepage": "https://github.com/fares31-oss/gold-dz#readme",
+  "bugs": {
+    "url": "https://github.com/fares31-oss/gold-dz/issues"
+  }
 }
